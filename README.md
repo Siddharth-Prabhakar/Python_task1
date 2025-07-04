@@ -6,7 +6,7 @@ A simple console-based Hangman game built with Python. The player must guess a r
 
 ## 🎯 Game Objective
 
-Guess the hidden word by entering one letter at a time. You win by guessing the full word before running out of attempts.
+Guess the hidden word by entering one letter at a time. you win by guessing the full word before running out of attempts.
 
 ---
 
