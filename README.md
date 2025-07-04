@@ -1,6 +1,6 @@
 # 🕹️ Hangman - Text-Based Python Game
 
-A simple console-based Hangman game built with Python. The player must guess a randomly chosen word one letter at a time, with a maximum of 6 incorrect guesses allowed.
+A simple console-based Hangman game built with Python. The player must guess a randomly chosen word one letter at a time, with a maximum of 6 incorrect gueses allowed.
 
 ---
 
